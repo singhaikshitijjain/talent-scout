@@ -1,0 +1,22 @@
+Job Title
+AI/ML Engineer
+
+Job Description
+We are looking for a skilled AI/ML Engineer to design, develop, and deploy machine learning models for real-world applications. You will work closely with data scientists, backend engineers, and product teams to build scalable AI systems. The role involves working on NLP, computer vision, and predictive analytics use cases, optimizing models for performance, and integrating them into production environments.
+
+Requirements
+Strong proficiency in Python and libraries like NumPy, Pandas, Scikit-learn
+Experience with deep learning frameworks such as TensorFlow or PyTorch
+Knowledge of NLP (transformers, embeddings, LLMs) or Computer Vision
+Experience with REST APIs, FastAPI or Flask
+Familiarity with databases (SQL/NoSQL)
+Understanding of data structures and algorithms
+Experience in model deployment (Docker, APIs, cloud platforms like AWS/GCP/Azure)
+Bachelor’s or Master’s degree in Computer Science, AI, or related field
+Nice to Have
+Experience with LLMs (OpenAI, Hugging Face, Ollama)
+Knowledge of MLOps tools (MLflow, Airflow, Kubeflow)
+Experience with vector databases (FAISS, Pinecone, Weaviate)
+Familiarity with frontend frameworks like React
+Contributions to open-source AI projects
+Experience with real-time systems or streaming data (Kafka, Spark)

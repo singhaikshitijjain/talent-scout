@@ -1,0 +1,5 @@
+Username
+Singhai Kshitij Jain
+
+Highlight Details
+I have a research paper that is accepted for publication in Braincon 2026. I also led a team in an ML hackathon and ranked 3rd among 200+ teams. Additionally, I built an anxiety case detection project for which I collected data from ground surveys, with around 50K user inputs.

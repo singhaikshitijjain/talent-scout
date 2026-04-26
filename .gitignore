@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
+*.swp

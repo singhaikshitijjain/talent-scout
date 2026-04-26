@@ -111,7 +111,7 @@ Make sure the following are installed on your machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/talentscout-ai.git
+git clone https://github.com/singhaikshitijjain/talentscout-ai.git
 cd talentscout-ai
 ```
 
